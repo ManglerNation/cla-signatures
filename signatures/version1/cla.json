@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "suranc",
+      "id": 25411481,
+      "comment_id": 942937437,
+      "created_at": "2021-10-14T04:30:00Z",
+      "repoId": 416984918,
+      "pullRequestNo": 1
+    }
+  ]
 }
